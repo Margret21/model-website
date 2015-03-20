@@ -1,0 +1,31 @@
+body {
+	background-image: url('../img/witewall_3.png');
+}
+
+h1 {
+	font-size: 4em;
+	color: teal;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+}
+
+nav	{
+	background-image: url('../img/linen.png');
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+}
+
+nav a {
+	float: left;
+	display: inline;
+}
+
+section img {
+	width: 40%;
+	margin: 5%;
+	float: left;
+}
+
+.clear {
+	float: none;
+}
